@@ -3,7 +3,7 @@ package com.algorithm.beginner;
 public class BeginnerProblem28 {
 
     public static void main(String[] args) {
-        System.out.println(solution("bus"));
+        System.out.println(solution("apple"));
     }
 
     /*
@@ -19,12 +19,21 @@ public class BeginnerProblem28 {
         char[]  alphabet=str.toCharArray();
 
         for (int i = 0; i < alphabet.length; i++) {
-            switch(alphabet[i]){
 
-
+                if (alphabet[i] == 'i') {
+                    continue;
+                } else if (alphabet[i] == 'e') {
+                    continue;
+                } else if (alphabet[i] == 'a') {
+                    continue;
+                } else if (alphabet[i] == 'o') {
+                    continue;
+                } else if (alphabet[i] == 'u') {
+                    continue;
+                } else {
+                    answer += alphabet[i];
+                }
             }
-        }
-
 
         return answer;
     }
