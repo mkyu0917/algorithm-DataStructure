@@ -1,4 +1,4 @@
-package com.algorithm.beginner70;
+package com.algorithm.beginner50;
 
 public class BeginnerProblem50 {
 
