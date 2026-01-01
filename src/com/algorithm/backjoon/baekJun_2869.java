@@ -28,8 +28,6 @@ public class baekJun_2869 {
             cnt++;
         }
 
-
-
         System.out.println(cnt);
 
 
