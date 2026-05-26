@@ -1,7 +1,5 @@
 package com.algorithm.beginner70;
 
-import com.sun.org.apache.bcel.internal.generic.INSTANCEOF;
-
 import java.util.ArrayList;
 
 public class BeginnerProblem67 {

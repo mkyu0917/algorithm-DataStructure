@@ -1,7 +1,5 @@
 package com.algorithm.beginner70;
 
-import com.sun.org.apache.xerces.internal.impl.io.ASCIIReader;
-
 import java.util.LinkedHashMap;
 import java.util.Map;
 
