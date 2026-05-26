@@ -35,9 +35,7 @@ public class StringToNum {
         if(negative){
             answer*=-1;
         }
-
         System.out.print(answer);
-
     }
 
 }
