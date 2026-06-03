@@ -1,8 +1,6 @@
 package com.algorithm.programers;
 
-import java.io.IOException;
-
-public class factorialForRecursive {
+public class FactorialForRecursive {
 
     static int factorial (int n){
 

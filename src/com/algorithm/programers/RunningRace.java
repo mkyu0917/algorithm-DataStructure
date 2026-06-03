@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Arrays;
 
-public class runningRace {
+public class RunningRace {
 
     public static void main(String[] args) {
 

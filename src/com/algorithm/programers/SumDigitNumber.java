@@ -1,6 +1,6 @@
 package com.algorithm.programers;
 
-public class sumDigitNumber {
+public class SumDigitNumber {
 
     public static int sumDigitNumberByString(int num){
 

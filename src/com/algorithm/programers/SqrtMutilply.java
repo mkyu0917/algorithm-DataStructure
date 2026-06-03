@@ -1,6 +1,6 @@
 package com.algorithm.programers;
 
-public class sqrtMutilply {
+public class SqrtMutilply {
 
     static void sqrtMultiply(long num){
 
