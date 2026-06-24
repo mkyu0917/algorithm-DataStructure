@@ -2,6 +2,8 @@ package com.algorithm.programers;
 
 public class InsufficientMoney {
 
+    //https://school.programmers.co.kr/learn/courses/30/lessons/82612
+
     int price =0;
     int money =0;
     int count =0;
