@@ -1,6 +1,7 @@
 package com.algorithm.programers;
 
 public class Base3 {
+    //https://school.programmers.co.kr/learn/courses/30/lessons/68935#
     public static void main(String[] args) {
 
         int n = 1000000000;
