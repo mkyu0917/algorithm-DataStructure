@@ -1,7 +1,7 @@
 package com.algorithm.programers;
 
 public class Progrmmers_81301 {
-
+    //숫자 문자열과 영단어
     //https://school.programmers.co.kr/learn/courses/30/lessons/81301
     public static void main(String[] args) {
 
